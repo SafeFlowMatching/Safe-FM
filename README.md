@@ -1,3 +1,3 @@
-# Safe-FM
+# Safe Flow Matching: Robot Motion Planning with Control Barrier Functions
 
 Coming Soon...
